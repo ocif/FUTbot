@@ -5,7 +5,7 @@ This script is designed to automate the process of buying players on the FIFA Ul
 - selenium
 
 ## Required Downloads
-- Chromedriver.exe #Find here https://chromedriver.chromium.org/downloads
+- Chromedriver.exe     Find here https://chromedriver.chromium.org/downloads
 
 ## config.py
 Change the parameters in the config.py to your credentials
