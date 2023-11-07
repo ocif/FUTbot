@@ -7,7 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from src.access_email import get_login_code
-
+# what ok
 from src.config import WEB_APP_PASSWORD, WEB_APP_USERNAME, MAILBOX_PASSWORD, MAILBOX_USERNAME, Player_name, Max_buynow, PLAYERS_TO_BUY
 
 def no_results_found(driver):
